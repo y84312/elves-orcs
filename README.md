@@ -2,18 +2,10 @@
 
 [![CI](https://github.com/stennu718/elves-orcs/actions/workflows/tests.yml/badge.svg)](https://github.com/stennu718/elves-orcs/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://stennu718.github.io/elves-orcs/)
 [![Version](https://img.shields.io/github/v/release/stennu718/elves-orcs)](https://github.com/stennu718/elves-orcs/releases)
 [![Docker](https://img.shields.io/badge/Docker-Build-2496ED.svg?logo=docker&logoColor=white)](https://github.com/stennu718/elves-orcs/pkgs/container/elves-orcs)
 
 ![Gameplay](docs/screenshot.png)
-
-**Live:** [https://stennu718.github.io/elves-orcs/](https://stennu718.github.io/elves-orcs/)
-
-## Live Demo
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://stennu718.github.io/elves-orcs/)
 
 ## Description
 
@@ -41,14 +33,6 @@ Originally a tabletop game popular in Estonia, Kings & Spies tests your ability 
 **Correct guess = Victory. Wrong guess = The kingdom falls.**
 
 The key is to cross-reference mission results: if a mission with 3 characters returned 0 spies, all three are safe. Use logic and deduction to narrow down the suspects!
-
-## Screenshots
-
-| Main Game | Mission Log |
-|-----------||
-| ![Main Game](docs/screenshot-main.png) | ![Mission Log](docs/screenshot-missions.png) |
-
-> **Note:** Replace the placeholder images above with actual screenshots of the game in action.
 
 ## Quick Start
 
