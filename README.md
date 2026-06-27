@@ -11,6 +11,10 @@
 
 **Live:** [https://stennu718.github.io/elves-orcs/](https://stennu718.github.io/elves-orcs/)
 
+## Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://stennu718.github.io/elves-orcs/)
+
 ## Description
 
 Elves & Orcs is a digital remake of the Estonian social deduction game **"Kings & Spies"** (*Kuningad & Spioonid*). In this tense deduction challenge, you must identify two hidden spies among your team of characters before time runs out.
