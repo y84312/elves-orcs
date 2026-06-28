@@ -25,5 +25,30 @@ Figure out who the hidden spies are among your team — before it's too late.
 ## Screenshot
 ![Gameplay](screenshots/gameplay.png)
 
+## Technical Highlights
+
+- **Stack**: React + TypeScript + Vite + Tailwind CSS
+- **State**: Zustand store with devtools and persistence
+- **Animations**: Framer Motion for smooth transitions
+- **Audio**: Web Audio API for sound effects
+- **i18n**: Estonian, English, Russian support
+- **Testing**: 58 tests (unit + component)
+
+## Architecture
+
+```
+src/
+  game/
+    logic.ts      # Pure game logic (roles, voting, scoring)
+    bot.ts        # AI bot players
+    config.ts     # Game configuration (roles, timing)
+    sound.ts      # Sound effects and audio management
+  store/
+    gameStore.ts  # Zustand state store
+  i18n/
+    index.ts      # Internationalization setup
+  App.tsx         # Main app component
+```
+
 ## License
 MIT
